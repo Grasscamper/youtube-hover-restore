@@ -21,12 +21,6 @@ There are two ways to install this userscript:
 3. Copy and paste the contents of `userscript.user.js` from this repository
 4. Save the userscript
 
-### Method 3: GitHub Installation
-1. Install [Tampermonkey](https://www.tampermonkey.net/) extension for your browser
-2. Go to the [userscript file on GitHub](https://github.com/Grasscamper/youtube-hover-restore/blob/main/userscript.user.js)
-3. Click the "Raw" button
-4. Click "Install" when prompted by Tampermonkey
-
 ## Usage
 After installation, the hover functionality should work normally on YouTube thumbnails.
 
